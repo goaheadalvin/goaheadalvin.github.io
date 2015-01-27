@@ -42,8 +42,6 @@ owner:
   avatar: leifu.jpg
   email: goaheadalvin@gmail.com
   disqus-shortname: goaheadalvin
-  duoshuo :
-      short_name : goaheadalvin
   config: true
   id: leifu
   twitter: goaheadalvin
@@ -63,3 +61,12 @@ owner:
   bing-verify:
   weixin: weixin
   weibo: mynameisalvin
+
+# Site codepiano
+codepiano :
+    comments :
+    provider : duoshuo
+    duoshuo :
+      short_name : goaheadalvin
+      
+    
