@@ -4,10 +4,9 @@ title: "Hello World"
 modified:
 categories: blog
 excerpt:
-tags: []
-image:
-  feature:
-date: 2014-08-08T15:39:55-04:00
+tags: [asd]
+author: Alvin
+date: 2015-01-01T15:39:55-04:00
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
