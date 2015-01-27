@@ -42,7 +42,8 @@ owner:
   avatar: leifu.jpg
   email: goaheadalvin@gmail.com
   disqus-shortname: goaheadalvin
-  duoshuo:
+  duoshuo :
+      short_name : goaheadalvin
   config: true
   id: leifu
   twitter: goaheadalvin
@@ -55,7 +56,7 @@ owner:
   tumblr: 
   google:
     plus: 107282615831289677152/about
-    analytics: 
+    analytics: UA-59023785-1
     verify: 
     ad-client: 
     ad-slot: 
