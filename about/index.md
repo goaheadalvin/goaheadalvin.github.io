@@ -23,6 +23,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 一般我用这个邮箱<a href="mailto:goaheadalvin@gmail.com">goaheadalvin@gmail.com</a>
 有兴趣你也可以加我微信 
 <figure >
-<img src="/images/goaheadalvin.jpg" alt="wechat">
+<img src="/images/goahead.jpg" alt="wechat">
 <figcaption>sglfu_30</figcaption>
 </figure>
