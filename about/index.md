@@ -22,3 +22,4 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ##我的联系方式
 我的邮箱 <a href="mailto:goaheadalvin@gmail.com>goaheadalvin</a>
 
+<a href="mailto:goaheadalvin@gmail.com">goaheadalvin@gmail.com</a>
