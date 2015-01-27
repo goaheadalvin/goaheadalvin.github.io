@@ -13,9 +13,9 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 ##我的教育背景
 
-*2014-2015  MSc Financial Computing          University College London  
-*2012-2014  BSc Mathematics with Finance     University of Liverpool  
-*2010-2012  ￼BSc Financial Mathematics        Xi’an Jiaotong-Liverpool University  
+*2014-2015  MSc Financial Computing          University College London  英国伦敦  
+*2012-2014  BSc Mathematics with Finance     University of Liverpool    英国利物浦
+*2010-2012  ￼BSc Financial Mathematics        Xi’an Jiaotong-Liverpool University  江苏苏州
 
 ##我的联系方式
-
+我的邮箱 <a href="mailto: goaheadalvin@gmail.com</a>
