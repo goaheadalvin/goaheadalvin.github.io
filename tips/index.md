@@ -1,7 +1,5 @@
 ---
 layout: post
-categories: blog
-excerpt:
 author: Alvin
 date: 2015-01-01T15:39:55-04:00
 comments: true
