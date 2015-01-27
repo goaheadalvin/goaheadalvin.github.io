@@ -1,9 +1,16 @@
 ---
 layout: page
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
 
 ## 我是谁
+
+
+
+##我的爱好 
+
+
+
+##我的联系方式
 
