@@ -62,11 +62,6 @@ owner:
   weixin: weixin
   weibo: mynameisalvin
 
-# Site codepiano
-codepiano :
-    comments :
-    provider : duoshuo
-    duoshuo :
-      short_name : goaheadalvin
+
       
     
