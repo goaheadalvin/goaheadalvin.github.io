@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "额"
-excerpt: "An article to test overriding the default site author."
+excerpt: "描述"
 categories: blog
 tags: [生活]
 author: Alvin
