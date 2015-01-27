@@ -42,6 +42,9 @@ owner:
   avatar: leifu.jpg
   email: goaheadalvin@gmail.com
   disqus-shortname: goaheadalvin
+  duoshuo:
+  config: true
+  id: leifu
   twitter: goaheadalvin
   facebook: profile.php?id=100004326459944
 #  github: goaheadalvin
