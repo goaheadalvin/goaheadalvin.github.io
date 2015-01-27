@@ -20,6 +20,9 @@ modified: 2014-08-08T19:44:38.564948-04:00
 *2010-2012  ￼BSc Financial Mathematics        Xi’an Jiaotong-Liverpool University  江苏苏州
 
 ##我的联系方式
-我的邮箱 <a href="mailto:goaheadalvin@gmail.com>goaheadalvin</a>
-
-<a href="mailto:goaheadalvin@gmail.com">goaheadalvin@gmail.com</a>
+一般我用这个邮箱<a href="mailto:goaheadalvin@gmail.com">goaheadalvin@gmail.com</a>
+有兴趣你也可以加我微信 
+<figure >
+<img src="/images/goaheadalvin.jpg" alt="wechat">
+<figcaption>sglfu_30</figcaption>
+</figure>
