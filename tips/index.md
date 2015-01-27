@@ -1,9 +1,5 @@
 ---
 layout: page 
-date: 2015-01-01T15:39:55-04:00
-author:Alvin
-comments: true
-share: true
 ---
 
 
