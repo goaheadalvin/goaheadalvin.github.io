@@ -5,7 +5,7 @@ layout: page
 
 ##为什么建站
 好玩！  任性！
-
+如果你对本站有什么建议，请留言或给我发邮件
 <!-- 多说评论框 start -->
 <div class="ds-thread" data-thread-key="e" data-title="e" ></div>
 <!-- 多说评论框 end -->
