@@ -13,17 +13,11 @@ modified: 2014-08-08T19:44:38.564948-04:00
 3. 足球
 
 ##我的教育背景
-1. **MSc Financial Computing** 
+1. **MSc Financial Computing**  University College London  英国伦敦  2014-2015      
 
-University College London  英国伦敦  2014-2015      
+2. **BSc Mathematics with Finance**  University of Liverpool  英国利物浦  2012-2014
 
-2. **BSc Mathematics with Finance** 
-
-University of Liverpool  英国利物浦  2012-2014
-
-3. **￼BSc Financial Mathematics** 
-
-Xi’an Jiaotong-Liverpool University  江苏苏州  2010-2012
+3. **￼BSc Financial Mathematics**   Xi’an Jiaotong-Liverpool University  江苏苏州  2010-2012
 
 
 ##我的联系方式
