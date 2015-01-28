@@ -19,7 +19,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 8. 扯淡
 
  
- ##我的教育背景 
+##我的教育背景 
   
 * **MSc Financial Computing**  University College London  英国伦敦  2014-2015      
 
