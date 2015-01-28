@@ -7,7 +7,7 @@ comments: true
 share: true
 ---
 
-###微信二维码打赏
+
 <figure >
 <img src="/images/6.66.jpg" alt="wechat">
 <figcaption>sglfu_30</figcaption>
