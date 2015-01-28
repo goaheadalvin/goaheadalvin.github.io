@@ -10,7 +10,6 @@ share: true
 
 <figure >
 <img src="/images/6.66.jpg" alt="wechat">
-<figcaption>sglfu_30</figcaption>
 </figure>
 
 
