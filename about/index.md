@@ -35,7 +35,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 有兴趣你也可以加我微信 
 <figure >  
 <img align="center" width="240" height="260" src="/images/goahead.jpg" alt="wechat">
-<figcaption>或以上二维码失效，可点击下方邮件图形给我发邮件</figcaption>
+<figcaption>若以上二维码失效，可点击下方信封给我发邮件</figcaption>
 </figure>
 
 
