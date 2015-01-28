@@ -7,8 +7,12 @@ comments: true
 share: true
 ---
 
+###微信二维码打赏
+<figure >
+<img src="/images/6.66.jpg" alt="wechat">
+<figcaption>sglfu_30</figcaption>
+</figure>
 
-[微信二维码打赏](https://github.com/goaheadalvin/goaheadalvin.github.io/raw/master/images/6.66.jpg)
 
 <!-- 多说评论框 start -->
 <div class="ds-thread" data-thread-key="tips" data-title="tips" ></div>
