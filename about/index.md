@@ -5,7 +5,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 
 ## 我是谁
-<span><i class="fa fa-university fa-2x"></i></span>
 我叫付磊，现在伦敦UCL就读FINANCIAL COMPUTING研究生
 
 ##我的爱好 
@@ -20,7 +19,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 8. 扯淡
 
  
-##我的教育背景 
+##我的教育背景<span><i class="fa fa-university fa-2x"></i></span> 
   
 * **MSc Financial Computing**  University College London  英国伦敦  2014-2015      
 
