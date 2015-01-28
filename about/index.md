@@ -34,7 +34,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 <a href="mailto:goaheadalvin@gmail.com">goaheadalvin@gmail.com</a>    
 有兴趣你也可以加我微信 
 <figure >  
-<img align="center" width="300" height="360" src="/images/goahead.jpg" alt="wechat">
+<img align="center" width="240" height="260" src="/images/goahead.jpg" alt="wechat">
 <figcaption>sglfu_30</figcaption>
 </figure>
 
