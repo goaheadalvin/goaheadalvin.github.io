@@ -5,11 +5,11 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 
 ## 我是谁
-<span><i class="fa fa-user fa-2x"></i></span>  
+<span><i class="fa fa-user fa-2x"></i></span>
 我叫付磊，现在伦敦UCL就读FINANCIAL COMPUTING研究生
 
 ##我的爱好 
-<span><i class="fa fa-hand-o-down fa-2x"></i></span>  
+<span><i class="fa fa-hand-o-down fa-2x"></i></span>
 1. 曾梦想成为西蒙斯一样的男人  
 2. 罗永浩，雕爷等让我见识到了互联网营销的威力  
 3. 健身是一生的坚持  
@@ -21,7 +21,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
  
 ##我的教育背景
-<span><i class="fa fa-university fa-2x"></i></span>   
+<span><i class="fa fa-university fa-2x"></i></span>
   
 * **MSc Financial Computing**  University College London  英国伦敦  2014-2015      
 
@@ -31,7 +31,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 
 ##我的联系方式
-<span><i class="fa fa-phone fa-2x"></i></span>  
+<span><i class="fa fa-phone fa-2x"></i></span>
 一般我用这个邮箱
 <a href="mailto:goaheadalvin@gmail.com">goaheadalvin@gmail.com</a>    
 有兴趣你也可以加我微信 
