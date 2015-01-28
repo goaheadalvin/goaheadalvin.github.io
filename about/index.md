@@ -16,7 +16,8 @@ modified: 2014-08-08T19:44:38.564948-04:00
 6. 足球
 
  
- ##我的教育背景
+ ##我的教育背景 
+  
 * **MSc Financial Computing**  University College London  英国伦敦  2014-2015      
 
 * **BSc Mathematics with Finance**  University of Liverpool  英国利物浦  2012-2014
