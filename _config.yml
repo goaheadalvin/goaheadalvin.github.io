@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: 三石的个人网站
-locale: en_US
-description: 有种 有趣  有料
-logo: site-logo.png
+title:三石的个人网站
+locale:en_US
+description:有种 有趣  有料
+logo:site-logo.png
 
 # Serving
 detach:       false
