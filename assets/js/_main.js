@@ -30,6 +30,17 @@ $(function() {
 	$("article").fitVids();
 });
 
+
+
+// Table of Contents toggle
+$(function() {
+  $(".toc h3").click(function () {
+    $("#drawer").toggleClass("js-hidden");
+  });
+});
+
+
+
 // Add lightbox class to all image links
 $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
 
