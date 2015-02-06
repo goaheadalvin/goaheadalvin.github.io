@@ -10,11 +10,65 @@
     document.getElementById('menu').style.display = "none";
   }
 </script>
+
+<style type="text/css">
+ #back-top {
+  position: fixed;
+  bottom: 50px;
+  margin-left: 1140px;
+}
+#back-top a {
+  width: 54px;
+  height: 54px;
+  display: block;
+  background: #ddd <img src="http://www.goaheadalvin.com/images/arrow.png"> no-repeat center center;
+  background-color: #aaa;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  border-radius: 7px;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  transition: 1s;
+}
+#back-top a:hover {
+  background-color: #777;
+}
+</style>
+
+<script src="jquery.js">
+$("#back-top").hide();
+$(document).ready(function () {
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > 500) {
+      $('#back-top').fadeIn();
+    } else {
+      $('#back-top').fadeOut();
+    }
+  });
+  $('#back-top a').click(function () {
+    $('body,html').animate({
+      scrollTop: 0
+    }, 800);
+    return false;
+  });
+});
+
+</script>
+
 </head>
 
 <body id="post">
 
 {% include navigation.html %}
+
+
+
+
+<div id="back-top">
+  <a href="#top" title="回到顶部"></a>
+</div>
+
+
 
 <div id="main" role="main">
   <article class="hentry">
@@ -28,6 +82,7 @@
           <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
         {% endif %}
       </header>
+
 
 
      <footer class="entry-meta">
