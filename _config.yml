@@ -17,6 +17,7 @@ baseurl:      "" # does not include hostname
 
 permalink:   /:categories/:title/
 markdown:    kramdown
+  toc_levels: 1..7
 highlighter: pygments
 sass:
   sass_dir: _sass
