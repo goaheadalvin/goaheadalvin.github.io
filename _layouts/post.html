@@ -39,6 +39,10 @@
 </style>
 
 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+</script>
+
+
 </head>
 
 <body id="post">
@@ -55,14 +59,16 @@
 
 
 
-<script type="text/javascript" src="jquery-1.9.1.js"></script>
-    <script  src="top.js"></script>
+
+
+
+
 
 <script type="text/javascript">
 $("#back-top").hide();
 $(document).ready(function () {
   $(window).scroll(function () {
-    if ($(this).scrollTop() > 1000) {
+    if ($(this).scrollTop() > 800) {
       $('#back-top').fadeIn();
     } else {
       $('#back-top').fadeOut();
