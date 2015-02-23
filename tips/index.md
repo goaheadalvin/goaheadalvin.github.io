@@ -12,7 +12,7 @@ share: true
 <img src="/images/6.66.jpg" alt="wechat">
 </figure>
 
-<wb:livestream skin="silver" topic="三石的个人网站|求打赏" width="auto" listid="1005051809499162" uid="mynameisalvin" height="500" ></wb:livestream>
+<wb:livestream skin="silver" topic="三石的个人网站|求打赏" width="auto" gid=“3813530790816324” uid="mynameisalvin" height="500" ></wb:livestream>
 
 
 
