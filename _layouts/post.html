@@ -58,6 +58,27 @@ border-color: #777;
   background-color: #D92400;
 }
 
+
+#weibo {
+  position: fixed;
+  bottom: 100px;
+  margin-left: 90%;
+  width: 50px;
+  height: 100px;
+  display: block;
+  background-color: #aaa;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  border-radius: 7px;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  transition: 1s;
+}
+
+
+
+
+
 </style>
 
 
@@ -164,6 +185,29 @@ $(document).ready(function () {
 
 </div>
 
+
+
+
+
+<html xmlns:wb="http://open.weibo.com/wb">
+<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+
+<div id="weibo">
+<wb:follow-button uid="1809499162" type="red_3" width="300%" height="74" align=center;></wb:follow-button>
+</div>
+
+
+<script type="text/javascript">
+$("#weibo").hide();
+$(document).ready(function () {
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > 1000) {
+      $('#weibo').fadeIn();
+    } else {
+      $('#weibo').fadeOut();
+    }
+  });
+</script>
 
 
 
