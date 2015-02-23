@@ -37,20 +37,14 @@
   background-color: #777;
 }
 
-
 #dismiss {
+  width: 20px;
+  height: 20px;
   margin-left: 90%;
 }
-
-#dismiss i {
-  background: #ddd url("http://www.goaheadalvin.com/images/cross.png")  no-repeat center center;
-  background-color: #aaa;
+#dismiss:hover{
+  background-color: #777;
 }
-
-#dismiss i:hover {
-  background-color: #53170F;
-}
-
 
 </style>
 
@@ -147,17 +141,23 @@ $(document).ready(function () {
         {% if page.share %}{% include social-share.html %}{% endif %}
         {% if page.ads == true %}{% include ad-sidebar.html %}<!-- /.google-ads -->{% endif %}
 
-        <div id="menu">
+        <div id="menu"> 
+          <div id="closeid" onclick="closeDiv();" >
 
-           <div id="dismiss" >
-            <i class="fa fa-compress"></i>
+
+
+
+              <div id="dismiss" >
+          <figure >
+              <img src="/images/cross.png" >
+           </figure>
 </div>
           </div>
-
-
 <img src="http://www.goaheadalvin.com/images/goahead.jpg">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎添加我的微信
-<div id="closeid" onclick="closeDiv();" >
+
+
+
 
 
 </div>
