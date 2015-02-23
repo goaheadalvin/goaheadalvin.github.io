@@ -12,6 +12,10 @@ share: true
 <img src="/images/6.66.jpg" alt="wechat">
 </figure>
 
+<wb:livestream skin="silver" topic="三石的个人网站|打赏" width="auto" uid="mynameisalvin" height="500" ></wb:livestream>
+
+
+
 
 <!-- 多说评论框 start -->
 <div class="ds-thread" data-thread-key="tips" data-title="tips" ></div>
