@@ -36,6 +36,22 @@
 #back-top a:hover {
   background-color: #777;
 }
+
+
+#dismiss {
+  margin-left: 90%;
+}
+
+#dismiss i {
+  background: #ddd url("http://www.goaheadalvin.com/images/cross.png")  no-repeat center center;
+  background-color: #aaa;
+}
+
+#dismiss i:hover {
+  background-color: #53170F;
+}
+
+
 </style>
 
 
@@ -132,9 +148,16 @@ $(document).ready(function () {
         {% if page.ads == true %}{% include ad-sidebar.html %}<!-- /.google-ads -->{% endif %}
 
         <div id="menu">
+
+           <div id="dismiss" >
+            <i class="fa fa-compress"></i>
+</div>
+          </div>
+
+
 <img src="http://www.goaheadalvin.com/images/goahead.jpg">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎添加我的微信
-<div id="closeid" onclick="closeDiv();" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关闭</div>
+<div id="closeid" onclick="closeDiv();" >
 
 
 </div>
