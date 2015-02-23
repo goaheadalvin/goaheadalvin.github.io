@@ -1,4 +1,4 @@
-<!doctype html>
+<html xmlns:wb="http://open.weibo.com/wb">
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
@@ -59,25 +59,6 @@ border-color: #777;
 }
 
 
-#weibo {
-  position: fixed;
-  bottom: 100px;
-  margin-left: 90%;
-  width: 50px;
-  height: 100px;
-  display: block;
-  background-color: #aaa;
-  -webkit-border-radius: 7px;
-  -moz-border-radius: 7px;
-  border-radius: 7px;
-  -webkit-transition: 1s;
-  -moz-transition: 1s;
-  transition: 1s;
-}
-
-
-
-
 
 </style>
 
@@ -99,6 +80,10 @@ border-color: #777;
 <div id="back-top">
   <a href="#top" title="回到顶部"></a>
 </div>
+
+
+
+
 
 
 
@@ -189,12 +174,10 @@ $(document).ready(function () {
 
 
 
-<html xmlns:wb="http://open.weibo.com/wb">
+
 <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
 
-<div id="weibo">
-<wb:follow-button uid="1809499162" type="red_3" width="300%" height="74" align=center;></wb:follow-button>
-</div>
+<wb:follow-button uid="1809499162" type="red_4" width="100%" height="24" ></wb:follow-button>
 
 
 <script type="text/javascript">
