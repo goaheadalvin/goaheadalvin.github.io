@@ -5,13 +5,34 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta property="wb:webmaster" content="b0ae9cbdbea3b232" />
-  
+  <script type="text/javascript">
+  function closeDiv(){
+    document.getElementById('menu').style.display = "none";
+  }
+</script>
 {% include head.html %}
 
 </head>
 
 
 <style type="text/css">
+
+.wechat{
+border:1px;
+border-style: solid;
+border-color: #777;
+position: fixed;
+bottom: 199px;
+
+margin-left: 3%;
+width: 150px;
+height: 218px;
+display: block;
+}
+
+
+
+
  #back-top {
   position: fixed;
   bottom: 50px;
@@ -33,6 +54,27 @@
 #back-top a:hover {
   background-color: #777;
 }
+
+#dismiss {
+  border-radius: 50%;
+  width: 22px;
+  height: 22px;
+  margin-top: 1%;
+  margin-left: 85%;
+  background:url("http://www.goaheadalvin.com/images/cross.png")no-repeat center center;
+}
+
+
+#dismiss:hover{
+  background:url("http://www.goaheadalvin.com/images/cross2.png")no-repeat center center;
+  background-color: #D92400;
+}
+
+#weibo{
+  margin-top: 20px;
+}
+
+
 </style>
 
 
@@ -98,6 +140,46 @@ $(document).ready(function () {
     </nav><!-- /.pagination -->
   </article>
 </div><!-- /#main -->
+
+
+
+
+
+<script type="text/javascript">
+$("#menu").hide();
+$(document).ready(function () {
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > 1000) {
+      $('#menu').fadeIn();
+    } else {
+      $('#menu').fadeOut();
+    }
+  })
+  });
+
+</script>
+
+
+
+
+
+    <div id="menu" class="wechat"> 
+          <div id="closeid" onclick="closeDiv();" >
+              <div id="dismiss" >
+        
+</div>
+          </div>
+<img src="http://www.goaheadalvin.com/images/goahead.jpg">
+
+</div>
+
+
+
+
+
+
+
+
 
 
 
