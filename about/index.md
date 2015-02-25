@@ -35,7 +35,9 @@ modified: 2014-08-08T19:44:38.564948-04:00
 有兴趣你也可以加我微信 
 
 
-<figure style="margin:auto;">
+<figure style="margin-left:auto;
+margin-right:auto;
+background-color:#b0e0e6;">
 <a href="{{ site.url }}/images/goahead.jpg" title="Wechat"><img width="240" height="260" src="{{ site.url }}/images/goahead.jpg" alt="Wechat"></a>
 <figcaption>Just scan</figcaption>
 </figure>  
