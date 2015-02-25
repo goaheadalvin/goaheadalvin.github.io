@@ -4,6 +4,7 @@ title: 博文列表
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---
+&nbsp;   
 
 <ul class="post-list">
 {% for post in site.categories.blog %} 
