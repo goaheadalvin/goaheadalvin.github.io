@@ -34,7 +34,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 <a href="mailto:goaheadalvin@gmail.com">goaheadalvin@gmail.com</a>    
 有兴趣你也可以加我微信   
 
-<div style="margin-left:auto;margin-right:auto; width="240" height="200" ">
+<div style="margin-left:auto;margin-right:auto; width="240px"; height="200px;" ">
 <figure >
 <a href="{{ site.url }}/images/goahead.jpg" title="Wechat"><img src="{{ site.url }}/images/goahead.jpg" alt="Wechat"></a>
 <figcaption>Just scan</figcaption>
