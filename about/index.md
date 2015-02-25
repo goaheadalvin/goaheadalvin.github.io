@@ -32,7 +32,8 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ##我的联系方式
 一般我用这个邮箱
 <a href="mailto:goaheadalvin@gmail.com">goaheadalvin@gmail.com</a>    
-有兴趣你也可以加我微信 
+有兴趣你也可以加我微信   
+
 <div style="margin-left:auto;margin-right:auto;">
 <figure >
 <a href="{{ site.url }}/images/goahead.jpg" title="Wechat"><img width="240" height="260" src="{{ site.url }}/images/goahead.jpg" alt="Wechat"></a>
