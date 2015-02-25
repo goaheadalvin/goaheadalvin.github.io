@@ -33,9 +33,9 @@ modified: 2014-08-08T19:44:38.564948-04:00
 一般我用这个邮箱
 <a href="mailto:goaheadalvin@gmail.com">goaheadalvin@gmail.com</a>    
 有兴趣你也可以加我微信 
-
-
-<figure style="margin-left:auto;margin-right:auto;">
+<div style="margin-left:auto;margin-right:auto;">
+<figure >
 <a href="{{ site.url }}/images/goahead.jpg" title="Wechat"><img width="240" height="260" src="{{ site.url }}/images/goahead.jpg" alt="Wechat"></a>
 <figcaption>Just scan</figcaption>
 </figure>  
+</div>
