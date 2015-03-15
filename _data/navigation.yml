@@ -11,6 +11,9 @@
 
 - title: 影像
   url: /photo/
+  
+- title: 基金
+  url: /fund/
 
 - title:  标签
   url: /tags/
