@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 基金
-excerpt: "基金 资管"
+excerpt: "学会投资"
 search_omit: true
 ---
    
