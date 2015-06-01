@@ -4,7 +4,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
 
-##<span> <i class="fa fa-user fa-1x"></i></span>
+##<span> <i class="fa fa-user fa-1x"></i>我是谁</span>
 我叫付磊，现在伦敦UCL就读FINANCIAL COMPUTING研究生
 
 ##<span> <i class="fa fa-star fa-1x"></i></span>
