@@ -4,10 +4,10 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
 
-##<span> <i class="fa fa-user-secret"></i></span>
+##<span> <i class="fa fa-user fa-1x"></i></span>
 我叫付磊，现在伦敦UCL就读FINANCIAL COMPUTING研究生
 
-##<span> <i class="fa fa-star fa-2x"></i></span>
+##<span> <i class="fa fa-star fa-1x"></i></span>
 1. 曾梦想成为西蒙斯一样的男人  
 2. 罗永浩，罗振宇，雕爷等让我见识到了互联网营销的威力  
 3. 健身是一生的坚持  
@@ -28,6 +28,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 * **￼BSc Financial Mathematics**   Xi’an Jiaotong-Liverpool University  江苏苏州  2010-2012
 
 
-##<span><i class="fa fa-wifi fa-2x"></i></span>
+##<span><i class="fa fa-wifi fa-1x"></i></span>
 一般我用这个邮箱
 <a href="mailto:goaheadalvin@gmail.com">goaheadalvin@gmail.com</a>    
