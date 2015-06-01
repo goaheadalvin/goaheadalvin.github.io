@@ -4,7 +4,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
 
-##<span> <<i class="fa fa-user-secret fa-2x"></i></span>
+##<span> <i class="fa fa-user-secret fa-2x"></i></span>
 我叫付磊，现在伦敦UCL就读FINANCIAL COMPUTING研究生
 
 ##<span> <i class="fa fa-star fa-2x"></i></span>
@@ -28,6 +28,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 * **￼BSc Financial Mathematics**   Xi’an Jiaotong-Liverpool University  江苏苏州  2010-2012
 
 
-##<span> <i class="fa fa-wifi fa-2x"></i></span>
+##<span><i class="fa fa-wifi fa-2x"></i></span>
 一般我用这个邮箱
 <a href="mailto:goaheadalvin@gmail.com">goaheadalvin@gmail.com</a>    
