@@ -19,8 +19,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 9. ...
 
  
-##我的教育背景
-<span><i class="fa fa-university fa-2x"></i></span> 
+##我的教育背景  <span><i class="fa fa-university fa-2x"></i></span> 
   
 * **MSc Financial Computing**  University College London  英国伦敦  2014-2015      
 
