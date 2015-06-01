@@ -19,7 +19,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 9. ...
 
  
-##<span><i class="fa fa-university fa-1x"></i></span> 
+<span><i class="fa fa-university fa-1x"></i></span> 
   
 * **MSc Financial Computing**  University College London  英国伦敦  2014-2015      
 
@@ -28,6 +28,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 * **￼BSc Financial Mathematics**   Xi’an Jiaotong-Liverpool University  江苏苏州  2010-2012
 
 
-##<span><i class="fa fa-wifi fa-1x"></i></span>
+##<span><i class="fa fa-phone fa-1x"></i></span>
 一般我用这个邮箱
 <a href="mailto:goaheadalvin@gmail.com">goaheadalvin@gmail.com</a>    
