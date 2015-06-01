@@ -9,11 +9,11 @@
 - title: 我的博客
   url: /blog/
 
-- title: 影像
-  url: /photo/
+- title: 马龙
+  url: /code/
   
-- title: 基金
-  url: /fund/
+- title: 金融
+  url: /finance/
 
 - title:  标签
   url: /tags/
