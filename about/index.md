@@ -7,7 +7,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ##我是谁
 我叫付磊，现在伦敦UCL就读FINANCIAL COMPUTING研究生
 
-##我的爱好
+##我爱扯什么淡
 1. 曾梦想成为西蒙斯一样的男人  
 2. 罗永浩，罗振宇，雕爷等让我见识到了互联网营销的威力  
 3. 健身是一生的坚持  
@@ -19,7 +19,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 9. ...
 
  
-##我的教育背景  <span><i class="fa fa-university fa-2x"></i></span> 
+##<span><i class="fa fa-university fa-2x"></i></span> 
   
 * **MSc Financial Computing**  University College London  英国伦敦  2014-2015      
 
