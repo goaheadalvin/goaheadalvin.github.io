@@ -25,8 +25,9 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 * **BSc Mathematics with Finance**  University of Liverpool  英国利物浦  2012-2014
 
-* **￼BSc Financial Mathematics**   Xi’an Jiaotong-Liverpool University  江苏苏州  2010-2012
+* **BSc Financial Mathematics**   Xi’an Jiaotong-Liverpool University  江苏苏州  2010-2012
 
+<a href="http://www.goaheadalvin.com/about/CV.pdf">个人简历</a>
 
 ##<span><i class="fa fa-phone fa-1x"></i></span>
 一般我用这个邮箱
