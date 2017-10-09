@@ -6,12 +6,18 @@
 - title: 关于本站
   url: /aboutsite/
 
-- title:我的博客
+- title: 我的博客
   url: /blog/
+
+- title: 马龙
+  url: /code/
   
-- title:标签
+- title: 金融
+  url: /finance/
+
+- title:  标签
   url: /tags/
- 
+  
 - title: <span><i class="fa fa-search fa-1x"></i>搜索</span>
   url: /search/
 
