@@ -6,11 +6,11 @@
 - title: 关于本站
   url: /aboutsite/
 
-- title: 我的博客
+- title:我的博客
   url: /blog/
   
-- title:  标签
-   url: /tags/
+- title:标签
+  url: /tags/
  
 - title: <span><i class="fa fa-search fa-1x"></i>搜索</span>
   url: /search/
