@@ -18,7 +18,15 @@ modified: 2014-08-08T19:44:38.564948-04:00
 8. 扯淡
 9. ...
 
- 
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/18028868e7294577aec0a68790aaee11/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/18028868e7294577aec0a68790aaee11?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Tiger mage</a>
+    by <a href="https://sketchfab.com/Red_panda?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Red_panda</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
+
 ##<span><i class="fa fa-university fa-1x"></i></span> 
   
 * **MSc Financial Computing**  University College London  英国伦敦  2014-2015      
